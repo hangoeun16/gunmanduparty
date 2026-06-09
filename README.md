@@ -7,7 +7,7 @@ Simulates reader comments for Korean web novel authors drafting in isolation. AI
 
 ## Poster
 
-![Poster](source/gunmandu_poster.png)
+![Poster](source/gunmandu poster_only1_300.png)
 
 ## Recognition
 
